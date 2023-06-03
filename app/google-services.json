@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "175418155281",
+    "project_id": "elixirmedicityhealthapp",
+    "storage_bucket": "elixirmedicityhealthapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:175418155281:android:7d8b80334f3c5749366cb0",
+        "android_client_info": {
+          "package_name": "com.example.elixirmedicityhealthapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "175418155281-i6o3emq0bg34n884003qi3i44c5aq9dr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAsgiYkdJqtzwR_jgl6GA2LXJUIWX_37EI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "175418155281-i6o3emq0bg34n884003qi3i44c5aq9dr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
